@@ -1,4 +1,4 @@
-# project_zomboid_terraform_hetzner
+# project_zomboid_terraform_hetzner (work in progress)
 
 ## Setup
 This steps are mandatory to create a gke cluster in a gcp project.
@@ -9,6 +9,7 @@ This steps are mandatory to create a gke cluster in a gcp project.
 * hetzner api token
 
 ### Init
+* config
 ```console
 $ cp terraform.tfvars-sample terraform.tfvars
 ```
